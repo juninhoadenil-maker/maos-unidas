@@ -9,6 +9,9 @@
     "preview": "vp preview",
     "prepare": "vp config"
   },
+  "dependencies": {
+    "express": "^5.3.0"
+  },
   "devDependencies": {
     "typescript": "~6.0.3",
     "vite": "catalog:",
